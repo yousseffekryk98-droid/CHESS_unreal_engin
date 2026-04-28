@@ -1,0 +1,20 @@
+{
+	"configurations": [
+		{
+			"name": "ChessEditor Editor Win64 Development (Chess)",
+			"compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Chess.json"
+		},
+		{
+			"name": "Win32",
+			"compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default.json"
+		}
+	]
+}

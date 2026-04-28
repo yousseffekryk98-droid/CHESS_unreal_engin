@@ -37,7 +37,7 @@ bool UUCIEngineHandler::StartEngine(const FString iEnginePath, const int iTurnTi
 	if (!EngineProc->Launch())
 	{
 		Dbg("Couldn't launch InteractiveProcess!", "");
-		SetState(EUCIState::ERROR);
+		SetState(EUCIState::UCI_ERROR);
 		return false;
 	}
 	return true;
@@ -114,7 +114,7 @@ bool UUCIEngineHandler::IsReady()
 
 bool UUCIEngineHandler::IsError()
 {
-	return State == EUCIState::ERROR;
+	return State == EUCIState::UCI_ERROR;
 }
 
 void UUCIEngineHandler::SendCommand(const FString& iCmd)

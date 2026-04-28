@@ -1,0 +1,514 @@
+[
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\Blueprint\\CGBPUtils.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\Blueprint\\CGBPUtils.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\Blueprint\\CGFileDialogAction.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\Blueprint\\CGFileDialogAction.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\Chess.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\Chess.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\Chess.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGBishop.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGBishop.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGChessBoard.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGChessBoard.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGKing.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGKing.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGKingMovement.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGKingMovement.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGKnight.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGKnight.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGLinearMovement.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGLinearMovement.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGPawn.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGPawn.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGPawnMovement.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGPawnMovement.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGPiece.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGPiece.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGPieceMovementBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGQueen.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGQueen.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGRook.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGRook.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGSquareCoord.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGSquareCoord.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGTile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\ChessLogic\\CGTile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGAnimInstance.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGAnimInstance.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGCapturedPieces.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGCapturedPieces.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGChessPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGChessPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGChessPlayerPawn.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGChessPlayerPawn.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGGameInstance.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGGameInstance.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGGameState.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGGameState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGHighlightableComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGHighlightableComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGOnlineSession.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGOnlineSession.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGSettingsSave.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGSide.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGSkinData.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGUndo.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\GameLogic\\CGUtils.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\UCI\\UCIEngineHandler.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\UCI\\UCIEngineHandler.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\UI\\CGHUD.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\UI\\CGHUD.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\UI\\CGLabelWidget.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\UI\\CGLabelWidgetComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\Source\\Chess\\UI\\CGLabelWidgetComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\YOUSSEF\\Downloads\\test\\Chess\\.vscode\\compileCommands_Default\\Chess.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	}
+]
